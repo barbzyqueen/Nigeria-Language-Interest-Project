@@ -27,7 +27,7 @@ This project shows how interest in these languages varies across Nigeria’s 36 
 3. Use the slicers to explore states, regions, and languages.
 
 ## 📎 Links
-- [LinkedIn Post]([your-post-url-here](https://www.linkedin.com/posts/barbara-mangiri-97480b14b_powerbilearning-googletrends-dataprojects-activity-7374318160650354688-9DTx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ_36gBBwW3yE84GnHnTN6R9SLAhP3VJwU)) – video demo and insights 
+- [LinkedIn Post](https://www.linkedin.com/posts/barbara-mangiri-97480b14b_powerbilearning-googletrends-dataprojects-activity-7374318160650354688-9DTx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ_36gBBwW3yE84GnHnTN6R9SLAhP3VJwU) – video demo and insights 
 
 ## 🖼️ Dashboard Preview
 
