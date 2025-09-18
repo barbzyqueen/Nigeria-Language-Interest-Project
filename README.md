@@ -31,6 +31,6 @@ This project shows how interest in these languages varies across Nigeria’s 36 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](LanguageProject-dashboard.png)
+![Dashboard Screenshot](LanguageProject-dashboard-image.png)
 
 ---
